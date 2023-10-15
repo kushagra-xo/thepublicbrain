@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on The Public Brain</title>
-    <link>https://githubuser.github.io/categories/</link>
+    <link>https://kushagra-xo.github.io/thepublicbrain/categories/</link>
     <description>Recent content in Categories on The Public Brain</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://githubuser.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kushagra-xo.github.io/thepublicbrain/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://githubuser.github.io/categories/tech/</link>
+      <link>https://kushagra-xo.github.io/thepublicbrain/categories/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://githubuser.github.io/categories/tech/</guid>
+      <guid>https://kushagra-xo.github.io/thepublicbrain/categories/tech/</guid>
       <description></description>
     </item>
     
